@@ -4,7 +4,7 @@
 <h3 align="center">A Enthusiastic,Energetic and Passionate Web developer from INDIA</h3>
 
 
-<p>https://linktr.ee/pankaj_2025</p>
+<a href="https://linktr.ee/pankaj_2025" target="_blank">https://linktr.ee/pankaj_2025</a>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
