@@ -1,4 +1,4 @@
-![logo](https://github.com/Me-Pankaj/Me-Pankaj/blob/main/banner.png)
+
 
 <h1 align="center">Hi 👋, I'm Pankaj Gupta</h1>
 <h3 align="center">A Enthusiastic,Energetic and Passionate Web developer from INDIA</h3>
